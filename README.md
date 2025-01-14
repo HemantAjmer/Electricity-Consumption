@@ -75,5 +75,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - Any other libraries or resources used in the project.
 
 ---
-
-Feel free to customize this README as needed based on your specific project requirements and findings.
